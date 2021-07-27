@@ -1,11 +1,16 @@
 _repo: Olvasas-kozben-Uj-folyam-Ujsagcikkek-1913-es-1921-kozzul_65905
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ignotus
     gutenberg_agent_id: '33477'
     url: http://www.gutenberg.org/2009/agents/33477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65905#Olvasas-kozben-Uj-folyam-Ujsagcikkek-1913-es-1921-kozzul
 gutenberg_issued: '2021-07-23'
 gutenberg_type: Text
 identifiers:
